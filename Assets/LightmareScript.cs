@@ -522,6 +522,7 @@ public class LightmareScript : MonoBehaviour {
 				yield return "That color doesn't seem to be on that LED. Stopping execution. ";
 				yield break;
 			}
+			i++;
 		}
 		ButtonPress(selectable);
 		yield break;
