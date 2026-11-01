@@ -1,0 +1,10 @@
+{
+  "name": "lvLightmare-Editor",
+  "references": [
+    "lvLightmare"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": []
+}
