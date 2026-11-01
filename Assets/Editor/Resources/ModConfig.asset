@@ -15,7 +15,8 @@ MonoBehaviour:
   title: Lightmare
   author: LivreVerte
   description: 'A module vaguely inspired by Old Fogey, with a manual and concept
-    by EvatheSillyCat. '
+    by EvatheSillyCat. If there are any issues, contact me on Discord. Manual will
+    be on ktane.timwi.de. '
   version: 1.0.0
   outputFolder: build
   debugBuild: 0
